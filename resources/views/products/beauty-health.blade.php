@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h1>Kategori: Beauty & Health</h1>
+    <p>Menampilkan daftar produk kecantikan dan kesehatan.</p>
+</body>
+</html>
